@@ -12,9 +12,6 @@
 ✨ Growth mindset | Curious learner | Tech explorer
 
 
-# 💫 About Me:
-## Hi, I'm Chinmay 👋<br><br>🎓 B.Tech CSE @ Sharda University  <br><br>🤖 AI & Prompt Engineering Enthusiast  <br>• Skilled at using AI tools effectively for learning and building  <br>• Strong understanding of algorithm flow and execution logic  <br><br>💻 Currently improving coding skills from the ground up  <br>🚀 Building projects through a **30 Days – 30 Projects** challenge  <br>📈 Learning by doing, experimenting, and iterating  <br><br>✨ Growth mindset | Curious learner | Tech explorer
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_chinmayprakash07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmayprakashrout07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chinmayprakashrout3@gmail.com) 
