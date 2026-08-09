@@ -262,3 +262,12 @@ A machine learning project focused on breast cancer image classification using *
 - Data Analysis & Visualization
 - DSA & Problem Solving
 - Cloud Computing
+```
+---
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:DC2626,100:FF4D4D&height=180&section=footer"
+    width="100%"
+  />
+</p>
