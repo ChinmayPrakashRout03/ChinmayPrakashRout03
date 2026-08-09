@@ -63,7 +63,9 @@ My aim is to build intelligent, scalable, and user-friendly software that combin
 
 ---
 
-<h2 align="center"> 💻 Skills</h2>
+<h2 align="center">
+  <font size="6">💻 Skills</font>
+</h2>
 
 <p align="center">
   <img
@@ -171,9 +173,6 @@ A web-based attendance management application designed to help students track su
 <br>
 
 <p align="center">
-
-<details>
-<summary><b>Gully Cricket / DLC Hand Cricket</b></summary>
 
 <br>
 
