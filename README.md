@@ -290,27 +290,22 @@ A cricket-based game project involving match logic, player statistics, team syst
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-
-<picture>
-
-<source
-  media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/red-contribution-snake-dark.svg"
-/>
-
-<source
-  media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/red-contribution-snake.svg"
-/>
-
-<img
-  src="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/red-contribution-snake.svg"
-  alt="GitHub Contribution Snake"
-  width="900"
-/>
-
-</picture>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/red-contribution-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/red-contribution-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/red-contribution-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="750"
+      style="max-width: 100%; height: auto;"
+    />
+  </picture>
 </p>
 
 ---
