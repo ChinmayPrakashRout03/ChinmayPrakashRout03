@@ -182,32 +182,31 @@ A web-based attendance management application designed to help students track su
 
 ---
 
-<h2 align="center"> 🏆 Achievements</h2>
+---
+
+<h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
 
-| Recognition | Details |
-|---|---|
-| Academic Achievement | To be updated |
-| Hackathons | To be updated |
-| Project Achievements | To be updated |
-| Competitions | To be updated |
-| Other Recognition | To be updated |
+| Achievement | Organization | Date |
+|---|---|---|
+| Codex Hackathon — Participant | Codex | July 2026 |
+| Microsoft AI Skills Fest — Participant | Microsoft | June 2026 |
 
 </p>
 
 ---
 
-<h2 align="center"> 📜 Certifications</h2>
+<h2 align="center">📜 Certifications</h2>
 
 <p align="center">
 
-| Certification | Issuer | Status |
+| Certification | Issuer | Date |
 |---|---|---|
-| Python Advanced | Coursera | Completed |
-| Generative AI | Google | Completed |
-| Full Stack Web Development | Udemy | Completed |
-| Excel | LinkedIn Learning | Completed |
+| AWS Cloud Fundamentals | AWS Foundation | June 2026 |
+| Data Analytics Job Simulation | Deloitte via Forage | March 2026 |
+| Python Intermediate | LinkedIn Learning | January 2026 |
+| Full Stack Development in Java | Udemy | May 2025 |
 
 </p>
 
