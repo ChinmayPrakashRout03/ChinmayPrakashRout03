@@ -264,13 +264,11 @@ A cricket-based game project involving match logic, player statistics, team syst
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=ChinmayPrakashRout03&hide_border=true&background=0D1117&stroke=EF4444&ring=EF4444&fire=FF4D4D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EF4444&sideLabels=EF4444&dates=C9D1D9"
-  alt="GitHub Analytics"
-  width="700"
-/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=ChinmayPrakashRout03&hide_border=true&background=0D1117&stroke=EF4444&ring=EF4444&fire=FF4D4D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EF4444&sideLabels=EF4444&dates=C9D1D9"
+    alt="GitHub Analytics"
+    width="700"
+  />
 </p>
 
 ---
