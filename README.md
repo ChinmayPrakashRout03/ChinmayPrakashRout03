@@ -108,31 +108,73 @@ A machine learning project focused on breast cancer image classification using *
 
 <h2 align="center">🏆 Achievements</h2>
 
-<p align="center">
+<div align="center">
 
-| Achievement | Organization | Date |
-|---|---|---|
-| Codex Hackathon — Participant | Codex | July 2026 |
-| Microsoft AI Skills Fest — Participant | Microsoft | June 2026 |
-| Adobe Hackathon — Participant | Adobe | August 2026 |
+<table>
+  <tr>
+    <th>Achievement</th>
+    <th>Organization</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>Codex Hackathon — Participant</td>
+    <td>Codex</td>
+    <td>July 2026</td>
+  </tr>
+  <tr>
+    <td>Microsoft AI Skills Fest — Participant</td>
+    <td>Microsoft</td>
+    <td>June 2026</td>
+  </tr>
+  <tr>
+    <td>Adobe Hackathon — Participant</td>
+    <td>Adobe</td>
+    <td>August 2026</td>
+  </tr>
+</table>
 
-</p>
+</div>
 
 ---
 
 <h2 align="center">📜 Certifications</h2>
 
-<p align="center">
+<div align="center">
 
-| Certification | Issuer | Date |
-|---|---|---|
-| Agentic AI Foundations | Oracle | August 2026 |
-| AWS Cloud Fundamentals | AWS Foundation | June 2026 |
-| Data Analytics Job Simulation | Deloitte via Forage | March 2026 |
-| Python Intermediate | LinkedIn Learning | January 2026 |
-| Full Stack Development in Java | Udemy | May 2025 |
+<table>
+  <tr>
+    <th>Certification</th>
+    <th>Issuer</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>Agentic AI Foundations</td>
+    <td>Oracle</td>
+    <td>August 2026</td>
+  </tr>
+  <tr>
+    <td>AWS Cloud Fundamentals</td>
+    <td>AWS Foundation</td>
+    <td>June 2026</td>
+  </tr>
+  <tr>
+    <td>Data Analytics Job Simulation</td>
+    <td>Deloitte via Forage</td>
+    <td>March 2026</td>
+  </tr>
+  <tr>
+    <td>Python Intermediate</td>
+    <td>LinkedIn Learning</td>
+    <td>January 2026</td>
+  </tr>
+  <tr>
+    <td>Full Stack Development in Java</td>
+    <td>Udemy</td>
+    <td>May 2025</td>
+  </tr>
+</table>
 
-</p>
+</div>
 
 ---
 
