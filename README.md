@@ -77,16 +77,14 @@ My aim is to build intelligent, scalable, and user-friendly software that combin
 
 ---
 
-<h2 align="center"> 📄 Featured Projects</h2>
-
-<p align="center">
+<h2 align="center">📄 Featured Projects</h2>
 
 <details>
 <summary><b>Breast Cancer Prediction using CNN & Transfer Learning</b></summary>
 
 <br>
 
-A machine learning project focused on breast cancer image classification using <b>CNN and Transfer Learning</b> techniques.
+A machine learning project focused on breast cancer image classification using **CNN and Transfer Learning** techniques.
 
 | Attribute | Details |
 |---|---|
@@ -105,82 +103,6 @@ A machine learning project focused on breast cancer image classification using <
 - Strengthened understanding of computer vision and deep learning.
 
 </details>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<details>
-<summary><b>QuickMart Grocery Delivery</b></summary>
-
-<br>
-
-A full-stack grocery delivery web application inspired by modern quick-commerce platforms.
-
-| Attribute | Details |
-|---|---|
-| Frontend | React, Vite, Tailwind CSS |
-| Backend | Java, Spring Boot |
-| Database | MySQL |
-| API | REST APIs |
-| Features | Authentication, Products, Orders, Database Integration |
-
-### Highlights
-
-- Built a full-stack application.
-- Implemented REST APIs using Spring Boot.
-- Connected the application with MySQL.
-- Worked on user registration and login.
-- Implemented product and order functionality.
-- Designed a modern grocery delivery interface.
-
-</details>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<details>
-<summary><b>Student Attendance Manager — Attendify</b></summary>
-
-<br>
-
-A web-based attendance management application designed to help students track subject-wise attendance.
-
-| Attribute | Details |
-|---|---|
-| Frontend | HTML, CSS, JavaScript |
-| Visualization | Chart.js |
-| Focus | Attendance Tracking |
-| Interface | Responsive Web UI |
-
-### Highlights
-
-- Subject-wise attendance tracking.
-- Attendance percentage calculation.
-- Attendance threshold monitoring.
-- Visual attendance representation.
-- Student-focused dashboard.
-
-</details>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<br>
-
-</details>
-
-</p>
-
----
 
 ---
 
