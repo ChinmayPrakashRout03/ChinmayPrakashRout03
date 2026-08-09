@@ -1,0 +1,44 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+
+      # =====================================================
+      # Generate contribution snake
+      # =====================================================
+
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ChinmayPrakashRout03
+          outputs: |
+            dist/red-contribution-snake.svg?color_snake=#EF4444&color_dots=#161B22,#7F1D1D,#B91C1C,#EF4444,#FF6B6B
+            dist/red-contribution-snake-dark.svg?color_snake=#FF4D4D&color_dots=#161B22,#7F1D1D,#B91C1C,#EF4444,#FF6B6B
+
+      # =====================================================
+      # Publish generated files to output branch
+      # =====================================================
+
+      - name: Deploy Snake to Output Branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
+          commit_message: "Update contribution snake"
