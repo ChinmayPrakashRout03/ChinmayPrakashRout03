@@ -114,6 +114,7 @@ A machine learning project focused on breast cancer image classification using *
 |---|---|---|
 | Codex Hackathon — Participant | Codex | July 2026 |
 | Microsoft AI Skills Fest — Participant | Microsoft | June 2026 |
+| Adobe Hackathon — Participant | Adobe | August 2026 |
 
 </p>
 
@@ -125,6 +126,7 @@ A machine learning project focused on breast cancer image classification using *
 
 | Certification | Issuer | Date |
 |---|---|---|
+| Agentic AI Foundations | Oracle | August 2026 |
 | AWS Cloud Fundamentals | AWS Foundation | June 2026 |
 | Data Analytics Job Simulation | Deloitte via Forage | March 2026 |
 | Python Intermediate | LinkedIn Learning | January 2026 |
