@@ -15,9 +15,11 @@
   <a href="https://www.linkedin.com/in/chinmayprakashrout07">
     <img src="https://img.shields.io/badge/LINKEDIN-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="mailto:chinmayprakashrout3@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+
   <a href="https://github.com/ChinmayPrakashRout03">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -30,36 +32,57 @@
 
 ---
 
-# About Me
-
-I am a B.Tech Computer Science Engineering student at **Sharda University, Greater Noida**, specializing in **Artificial Intelligence and Machine Learning**. I work with **Python, Java, C, SQL, Spring Boot**, and modern tools to build end-to-end applications.
-
-My projects include a **breast cancer prediction system** using CNN and transfer learning, and full-stack web applications with database integration. These experiences have strengthened my understanding of machine learning, backend systems, databases, APIs, and responsive UI design.
-
-I enjoy solving problems, learning new technologies, and turning ideas into working products. Alongside academics, I am improving my skills in **data analysis, automation, cloud computing, and system design**.
-
-I like working on meaningful projects, collaborating with others, and continuously pushing myself to build better and more efficient solutions.
-
-I am open to **internships, graduate opportunities, and research or project collaborations** where I can contribute, learn, and grow. My aim is to build intelligent, scalable, and user-friendly software that combines strong algorithms with great user experience.
-
----
-
-# Skills
+<h2 align="center">About Me</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/main/skills.svg" width="100%" alt="Technical Skills"/>
+I am a B.Tech Computer Science Engineering student at <b>Sharda University, Greater Noida</b>, specializing in <b>Artificial Intelligence and Machine Learning</b>.
+</p>
+
+<p align="center">
+I work with <b>Python, Java, C, SQL, Spring Boot</b>, and modern tools to build end-to-end applications.
+My projects include a <b>breast cancer prediction system</b> using CNN and transfer learning, and full-stack web applications with database integration.
+</p>
+
+<p align="center">
+These experiences have strengthened my understanding of machine learning, backend systems, databases, APIs, and responsive UI design.
+</p>
+
+<p align="center">
+I enjoy solving problems, learning new technologies, and turning ideas into working products.
+Alongside academics, I am improving my skills in <b>data analysis, automation, cloud computing, and system design</b>.
+</p>
+
+<p align="center">
+I like working on meaningful projects, collaborating with others, and continuously pushing myself to build better and more efficient solutions.
+</p>
+
+<p align="center">
+I am open to <b>internships, graduate opportunities, and research or project collaborations</b> where I can contribute, learn, and grow.
+My aim is to build intelligent, scalable, and user-friendly software that combines strong algorithms with great user experience.
 </p>
 
 ---
 
-# Featured Projects
+<h2 align="center">Skills</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/main/skills.svg"
+    width="100%"
+    alt="Technical Skills"
+  />
+</p>
+
+---
+
+<h2 align="center">Featured Projects</h2>
 
 <details>
 <summary><b>Breast Cancer Prediction using CNN & Transfer Learning</b></summary>
 
 <br>
 
-A machine learning project focused on breast cancer image classification using **CNN and Transfer Learning** techniques.
+A machine learning project focused on breast cancer image classification using <b>CNN and Transfer Learning</b> techniques.
 
 | Attribute | Details |
 |---|---|
@@ -78,6 +101,8 @@ A machine learning project focused on breast cancer image classification using *
 - Strengthened understanding of computer vision and deep learning.
 
 </details>
+
+<br>
 
 <details>
 <summary><b>QuickMart Grocery Delivery</b></summary>
@@ -105,6 +130,8 @@ A full-stack grocery delivery web application inspired by modern quick-commerce 
 
 </details>
 
+<br>
+
 <details>
 <summary><b>Student Attendance Manager — Attendify</b></summary>
 
@@ -128,6 +155,8 @@ A web-based attendance management application designed to help students track su
 - Student-focused dashboard.
 
 </details>
+
+<br>
 
 <details>
 <summary><b>Gully Cricket / DLC Hand Cricket</b></summary>
@@ -156,9 +185,11 @@ A cricket-based game project involving match logic, player statistics, team syst
 
 ---
 
-# Achievements
+<h2 align="center">Achievements</h2>
 
-> **This section will be updated with actual achievements.**
+<p align="center">
+  <b>This section will be updated with actual achievements.</b>
+</p>
 
 | Recognition | Details |
 |---|---|
@@ -170,7 +201,7 @@ A cricket-based game project involving match logic, player statistics, team syst
 
 ---
 
-# Certifications
+<h2 align="center">Certifications</h2>
 
 | Certification | Issuer | Status |
 |---|---|---|
@@ -181,27 +212,36 @@ A cricket-based game project involving match logic, player statistics, team syst
 
 ---
 
-# Coding Profiles
+<h2 align="center">Coding Profiles</h2>
 
 <p align="center">
 
 <a href="https://leetcode.com/_chinmayprakash07">
-<img src="https://img.shields.io/badge/LeetCode-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="LeetCode"/>
+  <img
+    src="https://img.shields.io/badge/LeetCode-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117"
+    alt="LeetCode"
+  />
 </a>
 
 <a href="https://www.hackerrank.com/profile/chinmayprakashr1">
-<img src="https://img.shields.io/badge/HackerRank-EF4444?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117" alt="HackerRank"/>
+  <img
+    src="https://img.shields.io/badge/HackerRank-EF4444?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117"
+    alt="HackerRank"
+  />
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/chinmayprakashrout7">
-<img src="https://img.shields.io/badge/GeeksforGeeks-B91C1C?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D1117" alt="GeeksforGeeks"/>
+  <img
+    src="https://img.shields.io/badge/GeeksforGeeks-B91C1C?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D1117"
+    alt="GeeksforGeeks"
+  />
 </a>
 
 </p>
 
 ---
 
-# 📈 GitHub Analytics
+<h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
 
@@ -214,24 +254,26 @@ A cricket-based game project involving match logic, player statistics, team syst
 
 ---
 
-# 📊 Contribution Activity
+<h2 align="center">📊 Contribution Activity</h2>
 
 <p align="center">
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayPrakashRout03&theme=react-dark&hide_border=true&bg_color=0D1117&color=EF4444&line=EF4444&point=FF6B6B&area=true"
   alt="ChinmayPrakashRout03's Contribution Graph"
+  width="100%"
 />
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
 
 <picture>
+
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/red-contribution-snake-dark.svg"
@@ -247,17 +289,23 @@ A cricket-based game project involving match logic, player statistics, team syst
     alt="GitHub Contribution Snake"
     width="100%"
   />
+
 </picture>
 
 </p>
 
 ---
 
-# Current Focus
+<h2 align="center">Current Focus</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LEARNING-DC2626?style=for-the-badge&labelColor=0D1117" alt="Learning"/>
+  <img
+    src="https://img.shields.io/badge/LEARNING-DC2626?style=for-the-badge&labelColor=0D1117"
+    alt="Learning"
+  />
 </p>
+
+<p align="center">
 
 ```text
 - Advanced Machine Learning
@@ -265,12 +313,11 @@ A cricket-based game project involving match logic, player statistics, team syst
 - Data Analysis & Visualization
 - DSA & Problem Solving
 - Cloud Computing
-```
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:DC2626,100:FF4D4D&height=120&section=footer"/>
-
 </p>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:DC2626,100:FF4D4D&height=120&section=footer"
+    alt="Footer"
+  />
+</p>
+```
