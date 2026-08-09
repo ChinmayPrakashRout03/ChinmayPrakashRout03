@@ -77,6 +77,8 @@ My aim is to build intelligent, scalable, and user-friendly software that combin
 
 <h2 align="center">Featured Projects</h2>
 
+<p align="center">
+
 <details>
 <summary><b>Breast Cancer Prediction using CNN & Transfer Learning</b></summary>
 
@@ -102,7 +104,11 @@ A machine learning project focused on breast cancer image classification using <
 
 </details>
 
+</p>
+
 <br>
+
+<p align="center">
 
 <details>
 <summary><b>QuickMart Grocery Delivery</b></summary>
@@ -130,7 +136,11 @@ A full-stack grocery delivery web application inspired by modern quick-commerce 
 
 </details>
 
+</p>
+
 <br>
+
+<p align="center">
 
 <details>
 <summary><b>Student Attendance Manager — Attendify</b></summary>
@@ -156,7 +166,11 @@ A web-based attendance management application designed to help students track su
 
 </details>
 
+</p>
+
 <br>
+
+<p align="center">
 
 <details>
 <summary><b>Gully Cricket / DLC Hand Cricket</b></summary>
@@ -183,13 +197,13 @@ A cricket-based game project involving match logic, player statistics, team syst
 
 </details>
 
+</p>
+
 ---
 
 <h2 align="center">Achievements</h2>
 
 <p align="center">
-  <b>This section will be updated with actual achievements.</b>
-</p>
 
 | Recognition | Details |
 |---|---|
@@ -199,9 +213,13 @@ A cricket-based game project involving match logic, player statistics, team syst
 | Competitions | To be updated |
 | Other Recognition | To be updated |
 
+</p>
+
 ---
 
 <h2 align="center">Certifications</h2>
+
+<p align="center">
 
 | Certification | Issuer | Status |
 |---|---|---|
@@ -209,6 +227,8 @@ A cricket-based game project involving match logic, player statistics, team syst
 | Generative AI | Google | Completed |
 | Full Stack Web Development | Udemy | Completed |
 | Excel | LinkedIn Learning | Completed |
+
+</p>
 
 ---
 
@@ -247,7 +267,8 @@ A cricket-based game project involving match logic, player statistics, team syst
 
 <img
   src="https://streak-stats.demolab.com?user=ChinmayPrakashRout03&hide_border=true&background=0D1117&stroke=EF4444&ring=EF4444&fire=FF4D4D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EF4444&sideLabels=EF4444&dates=C9D1D9"
-  alt="GitHub Streak Statistics"
+  alt="GitHub Analytics"
+  width="700"
 />
 
 </p>
@@ -261,7 +282,7 @@ A cricket-based game project involving match logic, player statistics, team syst
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayPrakashRout03&theme=react-dark&hide_border=true&bg_color=0D1117&color=EF4444&line=EF4444&point=FF6B6B&area=true"
   alt="ChinmayPrakashRout03's Contribution Graph"
-  width="100%"
+  width="900"
 />
 
 </p>
@@ -274,23 +295,52 @@ A cricket-based game project involving match logic, player statistics, team syst
 
 <picture>
 
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/red-contribution-snake-dark.svg"
-  />
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/red-contribution-snake-dark.svg"
+/>
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/red-contribution-snake.svg"
-  />
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/red-contribution-snake.svg"
+/>
 
-  <img
-    src="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/red-contribution-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
+<img
+  src="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/red-contribution-snake.svg"
+  alt="GitHub Contribution Snake"
+  width="900"
+/>
 
 </picture>
+
+</p>
+
+---
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/chinmayprakashrout07">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="mailto:chinmayprakashrout3@gmail.com">
+  <img
+    src="https://img.shields.io/badge/GMAIL-DC2626?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+  />
+</a>
+
+<a href="https://github.com/ChinmayPrakashRout03">
+  <img
+    src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
 
 </p>
 
@@ -299,10 +349,12 @@ A cricket-based game project involving match logic, player statistics, team syst
 <h2 align="center">Current Focus</h2>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/LEARNING-DC2626?style=for-the-badge&labelColor=0D1117"
-    alt="Learning"
-  />
+
+<img
+  src="https://img.shields.io/badge/LEARNING-DC2626?style=for-the-badge&labelColor=0D1117"
+  alt="Learning"
+/>
+
 </p>
 
 <p align="center">
@@ -313,11 +365,3 @@ A cricket-based game project involving match logic, player statistics, team syst
 - Data Analysis & Visualization
 - DSA & Problem Solving
 - Cloud Computing
-</p>
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:DC2626,100:FF4D4D&height=120&section=footer"
-    alt="Footer"
-  />
-</p>
-```
