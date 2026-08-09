@@ -267,7 +267,7 @@ A machine learning project focused on breast cancer image classification using *
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:DC2626,100:FF4D4D&height=180&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:DC2626,100:FF4D4D&height=90&section=footer"
     width="100%"
   />
 </p>
