@@ -117,6 +117,11 @@ A machine learning project focused on breast cancer image classification using *
     <th>Date</th>
   </tr>
   <tr>
+    <td>Adobe Hackathon — Participant</td>
+    <td>Adobe</td>
+    <td>August 2026</td>
+  </tr>
+  <tr>
     <td>Codex Hackathon — Participant</td>
     <td>Codex</td>
     <td>July 2026</td>
@@ -125,11 +130,6 @@ A machine learning project focused on breast cancer image classification using *
     <td>Microsoft AI Skills Fest — Participant</td>
     <td>Microsoft</td>
     <td>June 2026</td>
-  </tr>
-  <tr>
-    <td>Adobe Hackathon — Participant</td>
-    <td>Adobe</td>
-    <td>August 2026</td>
   </tr>
 </table>
 
