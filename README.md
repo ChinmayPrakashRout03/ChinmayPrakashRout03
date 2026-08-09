@@ -302,7 +302,7 @@ A cricket-based game project involving match logic, player statistics, team syst
     <img
       src="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/red-contribution-snake.svg"
       alt="GitHub Contribution Snake"
-      width="750"
+      width="700"
       style="max-width: 100%; height: auto;"
     />
   </picture>
