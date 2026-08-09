@@ -1,16 +1,280 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:DC2626,100:FF4D4D&height=300&section=header&text=CHINMAY%20PRAKASH%20ROUT&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=55&descSize=18"/>
+</p>
 
-<!--
-**ChinmayPrakashRout03/ChinmayPrakashRout03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF4D4D&center=true&vCenter=true&width=800&lines=Building+Scalable+Systems;Architecting+AI%2FML+Solutions;Crafting+Full+Stack+Experiences;Driving+Product+Engineering"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/COMPUTER%20SCIENCE-STUDENT-DC2626?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/SHARDA%20UNIVERSITY-GREATER%20NOIDA-DC2626?style=for-the-badge&labelColor=0D1117"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/chinmayprakashrout07">
+    <img src="https://img.shields.io/badge/LINKEDIN-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:chinmayprakashrout3@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/ChinmayPrakashRout03">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ChinmayPrakashRout03?color=DC2626&style=flat-square&logo=github&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/stars/ChinmayPrakashRout03?color=DC2626&style=flat-square&logo=github&label=STARS"/>
+</p>
+
+---
+
+# About Me
+
+I am a B.Tech Computer Science Engineering student at **Sharda University, Greater Noida**, specializing in **Artificial Intelligence and Machine Learning**. I work with **Python, Java, C, SQL, Spring Boot**, and modern tools to build end-to-end applications. My projects include a **breast cancer prediction system** using CNN and transfer learning, and full-stack web applications with database integration. These experiences have strengthened my understanding of machine learning, backend systems, databases, APIs, and responsive UI design.
+
+I enjoy solving problems, learning new technologies, and turning ideas into working products. Alongside academics, I am improving my skills in **data analysis, automation, cloud computing, and system design**. I like working on meaningful projects, collaborating with others, and continuously pushing myself to build better and more efficient solutions.
+
+I am open to **internships, graduate opportunities, and research or project collaborations** where I can contribute, learn, and grow. My aim is to build intelligent, scalable, and user-friendly software that combines strong algorithms with great user experience.
+
+---
+
+# Skills
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/main/skills.svg" width="100%"/>
+</p>
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>Breast Cancer Prediction using CNN & Transfer Learning</b></summary>
+
+<br>
+
+A machine learning project focused on breast cancer image classification using **CNN and Transfer Learning** techniques.
+
+| Attribute | Details |
+|---|---|
+| Domain | Artificial Intelligence / Machine Learning |
+| Techniques | CNN, Transfer Learning |
+| Dataset | BreakHis, CBIS-DDSM |
+| Tools | Python, TensorFlow, Keras |
+| Focus | Medical Image Classification |
+
+### Highlights
+
+- Implemented CNN-based image classification.
+- Explored transfer learning.
+- Worked with medical image datasets.
+- Studied model comparison and evaluation.
+- Strengthened understanding of computer vision and deep learning.
+
+</details>
+
+<details>
+<summary><b>QuickMart Grocery Delivery</b></summary>
+
+<br>
+
+A full-stack grocery delivery web application inspired by modern quick-commerce platforms.
+
+| Attribute | Details |
+|---|---|
+| Frontend | React, Vite, Tailwind CSS |
+| Backend | Java, Spring Boot |
+| Database | MySQL |
+| API | REST APIs |
+| Features | Authentication, Products, Orders, Database Integration |
+
+### Highlights
+
+- Built a full-stack application.
+- Implemented REST APIs using Spring Boot.
+- Connected the application with MySQL.
+- Worked on user registration and login.
+- Implemented product and order functionality.
+- Designed a modern grocery delivery interface.
+
+</details>
+
+<details>
+<summary><b>Student Attendance Manager — Attendify</b></summary>
+
+<br>
+
+A web-based attendance management application designed to help students track subject-wise attendance.
+
+| Attribute | Details |
+|---|---|
+| Frontend | HTML, CSS, JavaScript |
+| Visualization | Chart.js |
+| Focus | Attendance Tracking |
+| Interface | Responsive Web UI |
+
+### Highlights
+
+- Subject-wise attendance tracking.
+- Attendance percentage calculation.
+- Attendance threshold monitoring.
+- Visual attendance representation.
+- Student-focused dashboard.
+
+</details>
+
+<details>
+<summary><b>Gully Cricket / DLC Hand Cricket</b></summary>
+
+<br>
+
+A cricket-based game project involving match logic, player statistics, team systems, and match management.
+
+| Attribute | Details |
+|---|---|
+| Frontend | React, Tailwind CSS |
+| Backend | FastAPI |
+| Database | MongoDB |
+| Features | Match System, Teams, Player Stats |
+| Analytics | Strike Rate, Economy, NRR |
+
+### Highlights
+
+- Implemented cricket match logic.
+- Designed team and player systems.
+- Worked with FastAPI backend services.
+- Integrated MongoDB.
+- Implemented cricket statistics.
+
+</details>
+
+---
+
+# Achievements
+
+> **Keep this section for now. We will replace these with your actual achievements next.**
+
+| Recognition | Details |
+|---|---|
+| Academic Achievement | To be updated |
+| Hackathons | To be updated |
+| Project Achievements | To be updated |
+| Competitions | To be updated |
+| Other Recognition | To be updated |
+
+---
+
+# Certifications
+
+> **Actual certifications will be added here next.**
+
+| Certification | Issuer | Status |
+|---|---|---|
+| Python Advanced | Coursera | Completed |
+| Generative AI | Google | Completed |
+| Full Stack Web Development | Udemy | Completed |
+| Excel | LinkedIn Learning | Completed |
+
+---
+
+# Coding Profiles
+
+<p align="center">
+
+  <a href="https://leetcode.com/_chinmayprakash07">
+    <img src="https://img.shields.io/badge/LeetCode-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="LeetCode"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/chinmayprakashr1">
+    <img src="https://img.shields.io/badge/HackerRank-EF4444?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117" alt="HackerRank"/>
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/profile/chinmayprakashrout7">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-B91C1C?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D1117" alt="GeeksforGeeks"/>
+  </a>
+
+</p>
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=ChinmayPrakashRout03&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF4444&icon_color=EF4444&text_color=C9D1D9&count_private=true"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="180em"
+    src="https://streak-stats.demolab.com?user=ChinmayPrakashRout03&hide_border=true&background=0D1117&stroke=EF4444&ring=EF4444&fire=FF4D4D&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=EF4444&sideLabels=EF4444&dates=C9D1D9"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayPrakashRout03&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF4444&text_color=C9D1D9&langs_count=10"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+# Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayPrakashRout03&theme=react-dark&hide_border=true&bg_color=0D1117&color=EF4444&line=EF4444&point=FF6B6B&area=true"
+    alt="GitHub Contribution Activity"
+    width="100%"
+  />
+</p>
+
+---
+
+# Contribution Snake
+
+<p align="center">
+  <picture>
+
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/red-contribution-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/red-contribution-snake.svg"
+    />
+
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/red-contribution-snake.svg"
+      width="100%"
+    />
+
+  </picture>
+</p>
+
+---
+
+# Current Focus
+
+<p>
+  <img
+    src="https://img.shields.io/badge/LEARNING-DC2626?style=for-the-badge&labelColor=0D1117"
+    alt="Learning"
+  />
+</p>
+
+```text
+- Advanced Machine Learning
+- Deep Learning & CNN
+- Data Analysis & Visualization
+- DSA & Problem Solving
+- Cloud Computing
