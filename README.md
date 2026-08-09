@@ -32,7 +32,7 @@
 
 ---
 
-<h2 align="center">About Me</h2>
+<h2 align="center">🧑🏼‍💻 About Me</h2>
 
 <p align="center">
 I am a B.Tech Computer Science Engineering student at <b>Sharda University, Greater Noida</b>, specializing in <b>Artificial Intelligence and Machine Learning</b>.
@@ -63,7 +63,7 @@ My aim is to build intelligent, scalable, and user-friendly software that combin
 
 ---
 
-<h2 align="center">Skills</h2>
+<h2 align="center"> 💻 Skills</h2>
 
 <p align="center">
   <img
@@ -75,7 +75,7 @@ My aim is to build intelligent, scalable, and user-friendly software that combin
 
 ---
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center"> 📄 Featured Projects</h2>
 
 <p align="center">
 
@@ -177,31 +177,13 @@ A web-based attendance management application designed to help students track su
 
 <br>
 
-A cricket-based game project involving match logic, player statistics, team systems, and match management.
-
-| Attribute | Details |
-|---|---|
-| Frontend | React, Tailwind CSS |
-| Backend | FastAPI |
-| Database | MongoDB |
-| Features | Match System, Teams, Player Stats |
-| Analytics | Strike Rate, Economy, NRR |
-
-### Highlights
-
-- Implemented cricket match logic.
-- Designed team and player systems.
-- Worked with FastAPI backend services.
-- Integrated MongoDB.
-- Implemented cricket statistics.
-
 </details>
 
 </p>
 
 ---
 
-<h2 align="center">Achievements</h2>
+<h2 align="center"> 🏆 Achievements</h2>
 
 <p align="center">
 
@@ -217,7 +199,7 @@ A cricket-based game project involving match logic, player statistics, team syst
 
 ---
 
-<h2 align="center">Certifications</h2>
+<h2 align="center"> 📜 Certifications</h2>
 
 <p align="center">
 
@@ -232,7 +214,7 @@ A cricket-based game project involving match logic, player statistics, team syst
 
 ---
 
-<h2 align="center">Coding Profiles</h2>
+<h2 align="center"> 🖥️ Coding Profiles</h2>
 
 <p align="center">
 
@@ -339,7 +321,7 @@ A cricket-based game project involving match logic, player statistics, team syst
 
 ---
 
-<h2 align="center">Current Focus</h2>
+<h2 align="center">✍🏻 Current Focus</h2>
 
 <p align="center">
 
