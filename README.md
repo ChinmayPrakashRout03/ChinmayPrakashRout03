@@ -1,33 +1,64 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:DC2626,100:FF4D4D&height=300&section=header&text=CHINMAY%20PRAKASH%20ROUT&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=55&descSize=18"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:DC2626,100:FF4D4D&height=300&section=header&text=CHINMAY%20PRAKASH%20ROUT&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=55&descSize=18"
+    alt="Chinmay Prakash Rout"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF4D4D&center=true&vCenter=true&width=800&lines=Building+Scalable+Systems;Architecting+AI%2FML+Solutions;Crafting+Full+Stack+Experiences;Driving+Product+Engineering"/>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF4D4D&center=true&vCenter=true&width=800&lines=Building+Scalable+Systems;Architecting+AI%2FML+Solutions;Crafting+Full+Stack+Experiences;Driving+Product+Engineering"
+    alt="Typing Animation"
+  />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/COMPUTER%20SCIENCE-STUDENT-DC2626?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/SHARDA%20UNIVERSITY-GREATER%20NOIDA-DC2626?style=for-the-badge&labelColor=0D1117"/>
+  <img
+    src="https://img.shields.io/badge/COMPUTER%20SCIENCE-STUDENT-DC2626?style=for-the-badge&labelColor=0D1117"
+    alt="Computer Science Student"
+  />
+  <img
+    src="https://img.shields.io/badge/SHARDA%20UNIVERSITY-GREATER%20NOIDA-DC2626?style=for-the-badge&labelColor=0D1117"
+    alt="Sharda University"
+  />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chinmayprakashrout07">
-    <img src="https://img.shields.io/badge/LINKEDIN-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 
   <a href="mailto:chinmayprakashrout3@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img
+      src="https://img.shields.io/badge/GMAIL-DC2626?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
   </a>
 
   <a href="https://github.com/ChinmayPrakashRout03">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ChinmayPrakashRout03?color=DC2626&style=flat-square&logo=github&label=FOLLOWERS"/>
-  <img src="https://img.shields.io/github/stars/ChinmayPrakashRout03?color=DC2626&style=flat-square&logo=github&label=STARS"/>
+  <img
+    src="https://img.shields.io/github/followers/ChinmayPrakashRout03?color=DC2626&style=flat-square&logo=github&label=FOLLOWERS"
+    alt="Followers"
+  />
+  <img
+    src="https://img.shields.io/github/stars/ChinmayPrakashRout03?color=DC2626&style=flat-square&logo=github&label=STARS"
+    alt="Stars"
+  />
+  <img
+    src="https://komarev.com/ghpvc/?username=ChinmayPrakashRout03&color=DC2626&style=flat-square&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  />
 </p>
 
 ---
@@ -63,9 +94,7 @@ My aim is to build intelligent, scalable, and user-friendly software that combin
 
 ---
 
-<h2 align="center">
-  <font size="6">💻 Skills</font>
-</h2>
+<h2 align="center">💻 Skills</h2>
 
 <p align="center">
   <img
@@ -84,7 +113,7 @@ My aim is to build intelligent, scalable, and user-friendly software that combin
 
 <br>
 
-A machine learning project focused on breast cancer image classification using **CNN and Transfer Learning** techniques.
+A machine learning project focused on breast cancer image classification using <b>CNN and Transfer Learning</b> techniques.
 
 | Attribute | Details |
 |---|---|
@@ -178,27 +207,27 @@ A machine learning project focused on breast cancer image classification using *
 
 ---
 
-<h2 align="center"> 🖥️ Coding Profiles</h2>
+<h2 align="center">🖥️ Coding Profiles</h2>
 
 <p align="center">
 
 <a href="https://leetcode.com/_chinmayprakash07">
   <img
-    src="https://img.shields.io/badge/LeetCode-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117"
+    src="https://img.shields.io/badge/LEETCODE-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117"
     alt="LeetCode"
   />
 </a>
 
 <a href="https://www.hackerrank.com/profile/chinmayprakashr1">
   <img
-    src="https://img.shields.io/badge/HackerRank-EF4444?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117"
+    src="https://img.shields.io/badge/HACKERRANK-EF4444?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117"
     alt="HackerRank"
   />
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/chinmayprakashrout7">
   <img
-    src="https://img.shields.io/badge/GeeksforGeeks-B91C1C?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D1117"
+    src="https://img.shields.io/badge/GEEKSFORGEEKS-B91C1C?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D1117"
     alt="GeeksforGeeks"
   />
 </a>
@@ -210,34 +239,35 @@ A machine learning project focused on breast cancer image classification using *
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
+
+<a href="https://github.com/ChinmayPrakashRout03">
   <img
-    src="./skills.svg"
-    alt="GitHub Skills"
-    width="800"
+    src="https://img.shields.io/github/followers/ChinmayPrakashRout03?style=for-the-badge&logo=github&label=FOLLOWERS"
+    alt="GitHub Followers"
   />
+</a>
+
+<a href="https://github.com/ChinmayPrakashRout03?tab=repositories">
+  <img
+    src="https://img.shields.io/github/stars/ChinmayPrakashRout03?style=for-the-badge&logo=github&label=STARS"
+    alt="GitHub Stars"
+  />
+</a>
+
+<a href="https://github.com/ChinmayPrakashRout03">
+  <img
+    src="https://img.shields.io/github/last-commit/ChinmayPrakashRout03/ChinmayPrakashRout03?style=for-the-badge&logo=github&label=LAST%20COMMIT"
+    alt="Last Commit"
+  />
+</a>
+
 </p>
 
 <p align="center">
-  <a href="https://github.com/ChinmayPrakashRout03">
-    <img
-      src="https://img.shields.io/github/followers/ChinmayPrakashRout03?style=for-the-badge&logo=github&label=Followers"
-      alt="GitHub Followers"
-    />
-  </a>
-
-  <a href="https://github.com/ChinmayPrakashRout03?tab=repositories">
-    <img
-      src="https://img.shields.io/github/stars/ChinmayPrakashRout03?style=for-the-badge&logo=github&label=Stars"
-      alt="GitHub Stars"
-    />
-  </a>
-
-  <a href="https://github.com/ChinmayPrakashRout03">
-    <img
-      src="https://img.shields.io/github/last-commit/ChinmayPrakashRout03/ChinmayPrakashRout03?style=for-the-badge&logo=github&label=Last%20Commit"
-      alt="Last Commit"
-    />
-  </a>
+  <img
+    src="https://img.shields.io/github/repo-size/ChinmayPrakashRout03/ChinmayPrakashRout03?style=for-the-badge&logo=github&label=PROFILE%20REPO%20SIZE"
+    alt="Repository Size"
+  />
 </p>
 
 ---
@@ -245,28 +275,59 @@ A machine learning project focused on breast cancer image classification using *
 <h2 align="center">🔥 Contribution Activity</h2>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayPrakashRout03&theme=react-dark&hide_border=true&bg_color=0D1117&color=EF4444&line=EF4444&point=FF6B6B&area=true" alt="Chinmay Prakash Rout's Contribution Graph" width="900">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayPrakashRout03&theme=react-dark&hide_border=true&bg_color=0D1117&color=EF4444&line=EF4444&point=FF6B6B&area=true"
+    alt="Chinmay Prakash Rout's Contribution Graph"
+    width="900"
+  />
 </p>
+
+---
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <picture>
+
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/github-contribution-grid-snake-dark.svg"
     />
+
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/github-contribution-grid-snake.svg"
     />
+
     <img
       src="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/github-contribution-grid-snake.svg"
       alt="GitHub Contribution Snake"
       width="900"
     />
+
   </picture>
 </p>
+
+---
+
+<h2 align="center">✍🏻 Current Focus</h2>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/LEARNING-DC2626?style=for-the-badge&labelColor=0D1117"
+    alt="Learning"
+  />
+</p>
+
+<pre align="center">
+Advanced Machine Learning
+Deep Learning & CNN
+Data Analysis & Visualization
+DSA & Problem Solving
+Cloud Computing
+</pre>
+
+---
 
 <h2 align="center">🌐 Let's Connect</h2>
 
@@ -297,31 +358,14 @@ A machine learning project focused on breast cancer image classification using *
 
 ---
 
-<h2 align="center">✍🏻 Current Focus</h2>
-
 <p align="center">
-
-<img
-  src="https://img.shields.io/badge/LEARNING-DC2626?style=for-the-badge&labelColor=0D1117"
-  alt="Learning"
-/>
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:DC2626,100:FF4D4D&height=120&section=footer&animation=fadeIn"
+    width="100%"
+    alt="Footer"
+  />
 </p>
 
 <p align="center">
-
-```text
-- Advanced Machine Learning
-- Deep Learning & CNN
-- Data Analysis & Visualization
-- DSA & Problem Solving
-- Cloud Computing
-```
----
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:DC2626,100:FF4D4D&height=90&section=footer"
-    width="100%"
-  />
+  <i>Building. Learning. Shipping.</i>
 </p>
