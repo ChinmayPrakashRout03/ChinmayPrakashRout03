@@ -245,13 +245,17 @@ A machine learning project focused on breast cancer image classification using *
 <h2 align="center">🔥 Contribution Activity</h2>
 
 <p align="center">
-  <a href="https://github.com/ChinmayPrakashRout03">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayPrakashRout03&theme=react-dark&hide_border=true&bg_color=0D1117&color=EF4444&line=EF4444&point=FF6B6B&area=true"
-      alt="Contribution Activity"
-      width="900"
-    />
-  </a>
+
+  <img
+
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayPrakashRout03&theme=react-dark&hide_border=true&bg_color=0D1117&color=EF4444&line=EF4444&point=FF6B6B&area=true&area_color=EF4444"
+
+    alt="Chinmay Prakash Rout's Contribution Graph"
+
+    width="900"
+
+  />
+
 </p>
 
 ---
