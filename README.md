@@ -248,19 +248,25 @@ A machine learning project focused on breast cancer image classification using *
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayPrakashRout03&theme=react-dark&hide_border=true&bg_color=0D1117&color=EF4444&line=EF4444&point=FF6B6B&area=true" alt="Chinmay Prakash Rout's Contribution Graph" width="900">
 </p>
 
----
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/github-contribution-grid-snake.svg">
-<img src="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="900">
-</picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="900"
+    />
+  </picture>
 </p>
-
----
 
 <h2 align="center">🌐 Let's Connect</h2>
 
