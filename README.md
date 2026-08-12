@@ -287,25 +287,11 @@ A machine learning project focused on breast cancer image classification using <
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <picture>
-
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="900"
-    />
-
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/github-contribution-grid-snake-dark.svg"
+    alt="Chinmay Prakash Rout GitHub Contribution Snake"
+    width="900"
+  />
 </p>
 
 ---
