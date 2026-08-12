@@ -245,17 +245,7 @@ A machine learning project focused on breast cancer image classification using *
 <h2 align="center">🔥 Contribution Activity</h2>
 
 <p align="center">
-
-  <img
-
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayPrakashRout03&theme=react-dark&hide_border=true&bg_color=0D1117&color=EF4444&line=EF4444&point=FF6B6B&area=true&area_color=EF4444"
-
-    alt="Chinmay Prakash Rout's Contribution Graph"
-
-    width="900"
-
-  />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayPrakashRout03&theme=react-dark&hide_border=true&bg_color=0D1117&color=EF4444&line=EF4444&point=FF6B6B&area=true" alt="Chinmay Prakash Rout's Contribution Graph" width="900">
 </p>
 
 ---
@@ -263,22 +253,11 @@ A machine learning project focused on breast cancer image classification using *
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/red-contribution-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/red-contribution-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/red-contribution-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="700"
-      style="max-width: 100%; height: auto;"
-    />
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/ChinmayPrakashRout03/ChinmayPrakashRout03/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="900">
+</picture>
 </p>
 
 ---
