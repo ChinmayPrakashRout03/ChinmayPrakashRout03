@@ -211,8 +211,28 @@ A machine learning project focused on breast cancer image classification using *
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=ChinmayPrakashRout03&hide_border=true&background=0D1117&stroke=EF4444&ring=EF4444&fire=FF4D4D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EF4444&sideLabels=EF4444&dates=C9D1D9"
-    alt="GitHub Analytics"
+    src="https://github-readme-stats.vercel.app/api?username=ChinmayPrakashRout03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=EF4444&icon_color=EF4444&text_color=FFFFFF"
+    alt="GitHub Stats"
+    width="495"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayPrakashRout03&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=EF4444&text_color=FFFFFF"
+    alt="Top Languages"
+    width="400"
+  />
+</p>
+
+---
+
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=ChinmayPrakashRout03&theme=dark&hide_border=true&background=0D1117&stroke=EF4444&ring=EF4444&fire=FF4D4D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EF4444&sideLabels=FFFFFF&dates=C9D1D9"
+    alt="GitHub Contribution Streak"
     width="700"
   />
 </p>
@@ -222,13 +242,11 @@ A machine learning project focused on breast cancer image classification using *
 <h2 align="center">📊 Contribution Activity</h2>
 
 <p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayPrakashRout03&theme=react-dark&hide_border=true&bg_color=0D1117&color=EF4444&line=EF4444&point=FF6B6B&area=true"
-  alt="ChinmayPrakashRout03's Contribution Graph"
-  width="900"
-/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayPrakashRout03&theme=react-dark&hide_border=true&bg_color=0D1117&color=EF4444&line=EF4444&point=FF6B6B&area=true"
+    alt="ChinmayPrakashRout03 Contribution Graph"
+    width="900"
+  />
 </p>
 
 ---
