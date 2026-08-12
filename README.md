@@ -207,46 +207,51 @@ A machine learning project focused on breast cancer image classification using *
 
 ---
 
-<h2 align="center">📈 GitHub Analytics</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ChinmayPrakashRout03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=EF4444&icon_color=EF4444&text_color=FFFFFF"
-    alt="GitHub Stats"
-    width="495"
+    src="./skills.svg"
+    alt="GitHub Skills"
+    width="800"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayPrakashRout03&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=EF4444&text_color=FFFFFF"
-    alt="Top Languages"
-    width="400"
-  />
+  <a href="https://github.com/ChinmayPrakashRout03">
+    <img
+      src="https://img.shields.io/github/followers/ChinmayPrakashRout03?style=for-the-badge&logo=github&label=Followers"
+      alt="GitHub Followers"
+    />
+  </a>
+
+  <a href="https://github.com/ChinmayPrakashRout03?tab=repositories">
+    <img
+      src="https://img.shields.io/github/stars/ChinmayPrakashRout03?style=for-the-badge&logo=github&label=Stars"
+      alt="GitHub Stars"
+    />
+  </a>
+
+  <a href="https://github.com/ChinmayPrakashRout03">
+    <img
+      src="https://img.shields.io/github/last-commit/ChinmayPrakashRout03/ChinmayPrakashRout03?style=for-the-badge&logo=github&label=Last%20Commit"
+      alt="Last Commit"
+    />
+  </a>
 </p>
 
 ---
 
-<h2 align="center">🔥 Contribution Streak</h2>
+<h2 align="center">🔥 Contribution Activity</h2>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=ChinmayPrakashRout03&theme=dark&hide_border=true&background=0D1117&stroke=EF4444&ring=EF4444&fire=FF4D4D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EF4444&sideLabels=FFFFFF&dates=C9D1D9"
-    alt="GitHub Contribution Streak"
-    width="700"
-  />
-</p>
-
----
-
-<h2 align="center">📊 Contribution Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayPrakashRout03&theme=react-dark&hide_border=true&bg_color=0D1117&color=EF4444&line=EF4444&point=FF6B6B&area=true"
-    alt="ChinmayPrakashRout03 Contribution Graph"
-    width="900"
-  />
+  <a href="https://github.com/ChinmayPrakashRout03">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayPrakashRout03&theme=react-dark&hide_border=true&bg_color=0D1117&color=EF4444&line=EF4444&point=FF6B6B&area=true"
+      alt="Contribution Activity"
+      width="900"
+    />
+  </a>
 </p>
 
 ---
